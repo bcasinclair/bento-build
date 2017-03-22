@@ -1,6 +1,6 @@
 machine:
   post:
-    - git clone git@github.com/axiomatic-systems/Bento4.git
+    - git clone git@github.com:axiomatic-systems/Bento4.git
 test:
   override:
     - echo "Hello"

@@ -1,0 +1,6 @@
+machine:
+  post:
+    - git clone https://github.com/axiomatic-systems/Bento4/
+test:
+  override:
+    - echo "Hello"
